@@ -1,0 +1,13 @@
+.signup {
+  height: 500px;
+}
+
+.container {
+  max-width: 1140px;
+  margin: auto;
+  padding: 50px 16px;
+}
+
+h1 {
+  text-align: center;
+}
